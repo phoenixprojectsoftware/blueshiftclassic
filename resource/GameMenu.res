@@ -17,10 +17,10 @@
 	"8"
 	{
 		"label" "HAZARD COURSE"
-		"command" "engine map t0a0"
+		"command" "engine map ba_hazard1"
 		"notmulti" "1"
 		"notsingle" "1"
-		"HelpText" "Learn how to play Half-Life."
+		"HelpText" "Learn how to play Blue Shift."
 	}
 	"9"
 	{
