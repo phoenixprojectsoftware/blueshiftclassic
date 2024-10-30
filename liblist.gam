@@ -13,4 +13,4 @@ gamedll_osx "dlls/bshift.dylib"
 gamedll_linux "dlls/bshift.so"
 secure "1"
 type "singleplayer_only"
-
+fallback_dir "bshift"
