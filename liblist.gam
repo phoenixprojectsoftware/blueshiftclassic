@@ -1,6 +1,7 @@
-// Blue Shift resource listing file
-// 
-game "Blue Shift Classic"
+// Made with XBLAH's Modding tool.
+// Download it at https://xblah.dev/modding-tool/
+
+game "Half-Life: Blue Shift Classic"
 startmap "ba_tram1"
 trainmap "ba_hazard1"
 url_info "www.gearboxsoftware.com"
@@ -13,4 +14,9 @@ gamedll_osx "dlls/bshift.dylib"
 gamedll_linux "dlls/bshift.so"
 secure "1"
 type "singleplayer_only"
-
+animated_title "1"
+nomodels "1"
+hd_background "1"
+developer ""
+developer_url ""
+manual ""
