@@ -68,7 +68,7 @@
 	"41"
 	{
 		"label" "VIEW README"
-		"command" "engine echo ZEKE WAS HERE"
+		"command" "engine toggleconsole; exec readme.cfg"
 		"notsingle" "1"
 		"notmulti" "1"
 		"HelpText" "View the Readme.txt file."
@@ -76,7 +76,7 @@
 	"42"
 	{
 		"label" "PREVIEWS"
-		"command" "engine echo ZEKE WAS HERE"
+		"command" "engine toggleconsole; exec previews.cfg"
 		"notsingle" "1"
 		"notmulti" "1"
 		"HelpText" "Find out more about Valve's product lineup."
