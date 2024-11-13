@@ -10,7 +10,6 @@ if ERRORLEVEL 1 (
 	pause
 	exit
 )
-ELSE (
 	echo "Blue Shift Maps installed successfully"
 	pause
 	cls
@@ -22,4 +21,3 @@ ELSE (
 	cls
 	echo Blue Shift maps converted succcessfully.
 	pause
-)
