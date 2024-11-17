@@ -2,6 +2,7 @@
 color 9f
 title Phoenix: Blue Shift Map Installer
 echo DO NOT OVERWRITE EXISTING MAPS!
+pause
 xcopy ..\..\bshift\maps . /s /e /D
 if ERRORLEVEL 1 (
 	color cf
