@@ -79,7 +79,7 @@
 		"command" "engine toggleconsole; exec previews.cfg"
 		"notsingle" "1"
 		"notmulti" "1"
-		"HelpText" "Find out more about Valve's product lineup."
+		"HelpText" "Find out more about Gearbox's product lineup."
 	}
 	"55"
 	{
